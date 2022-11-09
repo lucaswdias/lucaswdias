@@ -1,7 +1,7 @@
 <h1>Hi, I’m Lucas Dias</h1>
 <p>Trabalho atualmente com Web designer,recém formado em
 Análise e Desenvolvimento de sistemas, estudando tecnológias para front-end e conciliando um pouco de back-end</p>
-<p>Busco oportunidade de trabalho com desenvolvedor front-end Jr.</p>
+<p>Busco oportunidade desenvolvedor front-end Jr.</p>
 <p></p>
 <p>I currently work with a Web designer, recently graduated in
 Analysis and Systems Development, studying technologies for front-end and reconciling a little back-end</p>
