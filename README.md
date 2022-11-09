@@ -10,7 +10,9 @@ Analysis and Systems Development, studying technologies for front-end and reconc
 I'm looking for a job with a front-end developer Jr.</p>
 <p></p>
 <div>
-<strong>Com o que trabalho</strong>
+<strong>Tecnologias que trabalho</strong>
+  <p><p>
+  <strong>technology I work</strong>
   </br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px" height="40px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px" height="40px" />
@@ -21,7 +23,9 @@ I'm looking for a job with a front-end developer Jr.</p>
 </div>
 
 <div>
-<strong>Estou aprendo...</strong>
+<strong>Estou estudando...</strong>
+  <p></p>
+  <strong>I'm studying</strong>
   </br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40px" height="40px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40px" height="40px"/>
